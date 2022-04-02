@@ -66,6 +66,21 @@ export default {
       descriptions: [
         {
           id: "MLA741093357-1768858232",
+          text: `PELUCHE STITCH 1 METRO - 100 + ENVIO GRATIS POR CORREO ARGENTINO!"
+
+          Material: pluch muy suave relleno de vellon siliconado
+
+          Se puede retirar por:
+
+          Av Corrientes y Uruguay(zona Congreso - Subte B)
+          Av Corrientes y Carlos Pellegrini (Subte B)
+          Av Corrientes y Alem (Subte B)
+          Villa Pueyrredon
+          Villa Ballester
+
+          Realizamos envíos a todo el país y hacemos envíos a domicilio por motomensajeria.
+
+          ***NO SE OLVIDE DE VISITAR TODOS NUESTROS PRODUCTOS***`,
         },
       ],
       accepts_mercadopago: true,

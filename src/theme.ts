@@ -5,9 +5,11 @@ export default extendTheme({
     global: {
       body: {
         color: "blackAlpha.900",
+        backgroundColor: "#EDEDED",
       },
     },
   },
+  //variedad de amarillos
   colors: {
     primary: {
       50: "#FFF9BD",
@@ -21,6 +23,7 @@ export default extendTheme({
       800: "#BFB543",
       900: "#BFB543",
     },
+    //celestes para los botones
     secondary: {
       ...theme.colors.messenger,
       100: theme.colors.messenger[50],
@@ -82,16 +85,16 @@ export default extendTheme({
         focusBorderColor: "secondary.500",
       },
       variants: {
-        filled: {
-          field: {
-            borderRadius: "sm",
-            color: "blackAlpha.800",
-            backgroundColor: "white",
-            ":hover, :focus": {
-              backgroundColor: "white",
-            },
-          },
-        },
+        // filled: {
+        //   field: {
+        //     borderRadius: "sm",
+        //     color: "blackAlpha.800",
+        //     backgroundColor: "white",
+        //     ":hover, :focus": {
+        //       backgroundColor: "white",
+        //     },
+        //   },
+        // },
         outline: {
           field: {
             borderColor: "gray.300",
